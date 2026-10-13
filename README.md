@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ```uv --version
 ```
@@ -38,3 +39,7 @@ streamlit run streamlit_app.py
 ```
 uvicorn main:app --reload --port 8000
 ```
+=======
+# AI-Trip-Planner
+MongoDB, SQL, WebDev., etc. etc.
+>>>>>>> 7672e00661496fd80004f940444d476e8677c6d6
